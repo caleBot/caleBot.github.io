@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Redacted Security Blog
-email: contact@redactedsec.net
+title: EasyShell Security Blog
+email: contact@easyshell.io
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: redacted_sec
-github_username:  synthsec
+#twitter_username: redacted_sec
+#github_username:  caleBot
 
 # Build settings
 markdown: kramdown
@@ -28,7 +28,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-google_analytics: UA-118481465-1
+#google_analytics: UA-118481465-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

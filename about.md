@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Redacted Security LLC
+EasyShell LLC
 
 Consulting / Training / Assessement
